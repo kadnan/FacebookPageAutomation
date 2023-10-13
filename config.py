@@ -1,0 +1,3 @@
+ACCESS_TOKEN = 'YOUR_ACCESS TOKEN'
+PAGE_ID = 0
+API_KEY = '' #scraperapi.com KEY
